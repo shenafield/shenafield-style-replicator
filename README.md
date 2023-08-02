@@ -1,6 +1,6 @@
 # shenafield
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![PyPI version](https://badge.fury.io/py/shenafield.svg)](https://badge.fury.io/py/shenafield)
 
 shenafield is a Python library that replicates the unique typing style of shenafield. This library allows users to transform their text into the distinctive style in which shenafield talks.
 
