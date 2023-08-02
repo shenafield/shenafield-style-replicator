@@ -1,9 +1,11 @@
 [tool.poetry]
 name = "shenafield"
-version = "0.1.2"
+version = "0.1.3"
 description = "A library that replicates how shenafield talks"
 authors = ["shenafield <99119344+shenafield@users.noreply.github.com>"]
 readme = "README.md"
+homepage = "https://github.com/shenafield/shenafield-style-replicator"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.11"
