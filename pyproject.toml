@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "shenafield"
+version = "0.1.1"
+description = "A library that replicates how shenafield talks"
+authors = ["shenafield <99119344+shenafield@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^0.27.8"
+click = "^8.1.6"
+python-dotenv = "^1.0.0"
+
+[tool.poetry.scripts]
+shenafield = "shenafield.cli:cli"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
